@@ -1,4 +1,6 @@
 # Image Generation Program
+
+A Tkinter-based program that allows you to generate an image based on a prompt and image size by utilizing OpenAI's image generation capabilities.
 ## Features
 * Allows the user to select an image size, and enter a prompt
 * Uses the OpenAI API to generate an image based on the prompt and size selected by the user
